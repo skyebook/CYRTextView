@@ -15,7 +15,7 @@ FOUNDATION_EXPORT double CYRTextViewKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char CYRTextViewKitVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <CYRTextView/PublicHeader.h>
-#import <CYRTextViewKit/CYRTextView.h>
-#import <CYRTextViewKit/CYRToken.h>
+#import <CYRTextView/CYRTextView.h>
+#import <CYRTextView/CYRToken.h>
 
 
